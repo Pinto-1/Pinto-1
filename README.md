@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Pinto-1
-- 👀 I’m interested in Computing and Informatics (IT)
-- 🌱 I’m currently learning BSC. IT
-- 💞️ I’m looking to collaborate on Computer Networking
+- 👋 Hi, I’m @Gamma-Pinto
+- 👀 I’m interested in Computer Science and Information Technology (IT)
+- 🌱 I’m currently learning Bachelor of Science in Information Technology at Maseno University at Kisumu Kenya.
+- 💞️ I’m looking to collaborate on Computer Networking and Engineering.
+- Also a Junior System developer
 - 📫 How to reach me 0790359860 or ochpinto@gmail.com
 
 <!---
